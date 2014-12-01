@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<site>
+	<property name="email_from_address" type="string">webrequest@uwosh.edu</property>
+	<property name="organization_type" type="string"></property>
+</site>

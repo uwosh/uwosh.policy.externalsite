@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<metadata>
+  <version>0.1</version>
+  <dependencies>
+      <dependency>profile-uwosh.themecollege:default</dependency>
+      <dependency>profile-uwosh.themepersonalbar:default</dependency>
+      <dependency>profile-uwosh.policy.siteowner:default</dependency>
+      <dependency>profile-uwosh.policy.ldap:default</dependency>
+  </dependencies>
+</metadata>
